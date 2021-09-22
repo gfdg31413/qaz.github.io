@@ -1,0 +1,17 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+}
+header {
+    background-color: rgba(0, 158, 158, 0.61);
+    padding: 10px;
+    margin-bottom: 10px;
+    display:flex;
+    justify-content:center;
+    flex-direction:row;
+}
+.logo{
+    padding: 10px 50px 1px 1px;
+}
+
+
